@@ -24,7 +24,6 @@ const Head = () => {
             src="https://th.bing.com/th/id/OIP.bX-8LbnoPfPJsWD7ZeVPVgHaHa?pid=ImgDet&w=512&h=512&rs=1"
             alt="user-logo" />
          </div>
-
     </div>
   )
 }
